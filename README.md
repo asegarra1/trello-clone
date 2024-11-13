@@ -12,7 +12,7 @@ A lightweight task management system built with Spring Boot, inspired by Trello.
 - [Data Models](#data-models)
 - [Future Enhancements](#future-enhancements)
 
-![TaskManagementUML_Redraw](https://github.com/user-attachments/assets/577f9734-cf72-4b2e-a926-cc5fffecd743)
+<img width="1065" alt="Screenshot 2024-11-13 at 9 11 58 AM" src="https://github.com/user-attachments/assets/eda32a39-247f-45cd-936f-561aa72ac162">
 
 ## Features
 - Create, update, delete tasks with states (TODO, DOING, DONE).
