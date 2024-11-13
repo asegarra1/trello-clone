@@ -1,18 +1,15 @@
 # Task Management API
 
 A lightweight task management system built with Spring Boot, inspired by Trello. This application allows users to create, update, assign, and manage tasks, complete with states and comments. It demonstrates the use of design patterns, such as the Facade and FSM (Finite State Machine) patterns, to simplify task management workflows.
-
+<img width="1065" alt="Screenshot 2024-11-13 at 9 11 58 AM" src="https://github.com/user-attachments/assets/eda32a39-247f-45cd-936f-561aa72ac162">
 ## Table of Contents
 
 - [Features](#features)
-- 
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [API Endpoints](#api-endpoints)
 - [Data Models](#data-models)
 - [Future Enhancements](#future-enhancements)
-
-<img width="1065" alt="Screenshot 2024-11-13 at 9 11 58 AM" src="https://github.com/user-attachments/assets/eda32a39-247f-45cd-936f-561aa72ac162">
 
 ## Features
 - Create, update, delete tasks with states (TODO, DOING, DONE).
